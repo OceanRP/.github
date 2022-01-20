@@ -18,3 +18,10 @@
 
 Nous vous invitons donc à vous rendre sur notre Discord : 
 [Notre Discord](https://discord.gg/TQ6dhNsAph "Notre Discord")
+
+# Notre équipe de développement :
+
+#### Voici en exclusivité pour VOUS !
+##### Un schéma de fonctionnement de l'équipe de développement :
+
+[]()
