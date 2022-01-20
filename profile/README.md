@@ -1,12 +1,22 @@
-## Hi there 👋
+# OcéanRP
+[TOCM]
 
-<!--
+![](https://discord.com/widget?id=735456813985693697)
+#### Bienvenue sur le GitHub Officiel de OcéanRP. Vous pourrez retrouver les documentations des métier ici.  Cependant si vous cherchez du code, vous n'en trouverez pas ici. Tout est en private.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Wiki
+##### Voici une petite documentation écrite par vos magnifiques développeurs.
+- Métiers
+	- Métiers principaux (Gendarme, Sapeur-Pompier, ...)
+		- Gendarme
+		- Sapeur-Pompier
+	- Métier spéciaux (Auto-entreprise, Illégal, ...)
+		- Auto-entreprise
+		- Travailler dans l'illégal
+
+------------
+
+
+Nous vous invitons donc à vous rendre sur notre Discord : 
+<iframe src="https://discord.com/widget?id=735456813985693697&theme=dark" width="350" height="500">
