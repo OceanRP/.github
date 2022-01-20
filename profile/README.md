@@ -1,7 +1,5 @@
 # OcéanRP
-[TOCM]
 
-![](https://discord.com/widget?id=735456813985693697)
 #### Bienvenue sur le GitHub Officiel de OcéanRP. Vous pourrez retrouver les documentations des métier ici.  Cependant si vous cherchez du code, vous n'en trouverez pas ici. Tout est en private.
 
 
@@ -19,4 +17,4 @@
 
 
 Nous vous invitons donc à vous rendre sur notre Discord : 
-<iframe src="https://discord.com/widget?id=735456813985693697&theme=dark" width="350" height="500">
+[Notre Discord](https://discord.gg/TQ6dhNsAph "Notre Discord")
