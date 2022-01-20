@@ -24,4 +24,4 @@ Nous vous invitons donc à vous rendre sur notre Discord :
 #### Voici en exclusivité pour VOUS !
 ##### Un schéma de fonctionnement de l'équipe de développement :
 
-[]()
+[](https://github.com/OceanRP/.github/edit/main/profile/schema.png)
