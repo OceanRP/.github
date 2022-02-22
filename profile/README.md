@@ -19,3 +19,4 @@ Nous vous invitons donc à vous rendre sur notre Discord :
 
 ##### Un schéma de fonctionnement de l'équipe de développement :
 ![Image](https://raw.githubusercontent.com/OceanRP/.github/main/profile/schemaV2.png "Image")
+2nd degré
