@@ -5,13 +5,7 @@
 
 # Wiki
 ##### Voici une petite documentation écrite par vos magnifiques développeurs.
-- Métiers
-	- Métiers principaux (Gendarme, Sapeur-Pompier, ...)
-		- Gendarme
-		- Sapeur-Pompier
-	- Métier spéciaux (Auto-entreprise, Illégal, ...)
-		- Auto-entreprise
-		- Travailler dans l'illégal
+In dev
 
 ------------
 
